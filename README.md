@@ -14,7 +14,9 @@
 ### 🚀 Projects  
 - 📚 **[Book Recommendation System](https://github.com/rmahale04/Book-Recommendation-System)** — A Flask-based web app that recommends books based on user interests.  
 - 🐾 **[Pet Adoption System](https://github.com/Netra321/pet-adoption-system)** — Java web application connecting adopters with pets, built with MySQL and JSP/Servlets.  
-- 💉 **[Blood Bank Management System](https://github.com/Netra321/blood-bank-management-system)** — PHP-based project for managing donors, hospitals, and blood inventory.  
+- 💉 **[Blood Bank Management System](https://github.com/Netra321/blood-bank-management-system)** — PHP-based project for managing donors, hospitals, and blood inventory.
+- 💇‍♀️ **[Online Salon Booking System](https://github.com/Netra321/online-salon-booking-system)** — A web application for salon appointment scheduling, allowing users to book services online and admins to manage slots and customer details.  
+
 
 ---
 
