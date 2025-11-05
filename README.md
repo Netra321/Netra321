@@ -30,7 +30,7 @@
   <a href="https://github.com/Netra321" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="netrajigneshpatel@gmail.com" target="_blank">
+  <a href="mailto:netrajigneshpatel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/netra--patel/" target="_blank">
